@@ -180,7 +180,7 @@ export const offers = [
   
   export const Events = [
     {
-      image: "/assets/dude.png",
+      image: "/assets/1.jpg",
       title: "Next level yourself with Mk Stixx",
       price:"$10",
       dration: 'January 24 - January 25',

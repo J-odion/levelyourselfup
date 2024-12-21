@@ -1,11 +1,10 @@
-import Image from "next/image";
-import FlowThree from "./FlowThree";
+
 import TitlesFlow from "./Titles";
-import { LuMail } from "react-icons/lu";
-import { FaDrum, FaPlay, FaPlayCircle } from "react-icons/fa";
-import { Benefits, Eligibility, Events, offers } from "../data/data";
+import { FaDrum, } from "react-icons/fa";
+import {  Events, offers } from "../data/data";
 
 export default function EventsTop() {
+
   return (
     <section
       id="offers"
@@ -25,7 +24,7 @@ export default function EventsTop() {
               className="w-[343px] lg:w-[442px] border-[#EBEBEB] border h-[200px] rounded-[34px] p-[4px]"
             >
               <div className="w-[336px] lg:w-[432.67px] bg-[#F9F9F9] p-[24px] h-[190px] flex flex-col justify-start gap-[16px] rounded-[34px]">
-                <Image
+                <img
                   className="w-[34.84px] h-[34.84px] "
                   width={34.84}
                   height={34.84}
@@ -55,13 +54,19 @@ export default function EventsTop() {
           {Events.map((apply, index) => (
             <div
               key={index}
-              className=" lg:h-[400px] flex flex-col pl-6 justify-between rounded-[32px] border border-[#F2F2F2]"
+              className=" flex flex-col p-6 justify-between rounded-[32px] border border-[#F2F2F2]"
             >
               <div className=" flex flex-col justify-between">
                 <div className="flex justify-between pt-6 ">
-                  <div className="justify-between gap-8 flex flex-col">
-                    <div className="w-full justify-between gap-4 flex flex-col">
-                      <Image
+                  <div className={`justify-between gap-8 flex flex-col bg-${apply.image}` }>
+                  <img
+                        className="w-full h-auto "
+                        width={60}
+                        height={60}
+                        src={apply.image}
+                      />
+                    <div className="w-full bg-none justify-between gap-4 flex flex-col">
+                      <img
                         className="w-[60px] h-[60px] "
                         width={60}
                         height={60}
