@@ -1,7 +1,6 @@
 import Image from "next/image";
 import { Eligibility, store } from "../data/data";
 import TitlesFlow from "./Titles";
-import { FaDrum } from "react-icons/fa";
 
 export default function StoreComp({ children }) {
   return (

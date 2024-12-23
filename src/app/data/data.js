@@ -164,6 +164,13 @@ export const offers = [
       text: "Our top rated hoodie",
       link: "https://paystack.com/buy/nly-hoodie-yolvyo"
     },
+    {
+      image: "/hood3.jpg",
+      title: "Branded Cap",
+      price:"$30",
+      text: "Our top rated cap",
+      link: "https://paystack.com/buy/nly-hoodie-yolvyo"
+    },
   ];
   export const Courses = [
     {
