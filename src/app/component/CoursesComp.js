@@ -19,8 +19,8 @@ export default function CourseComp({ children }) {
         />
 
         <div className="grid lg:grid-cols-2 gap-6">
-          {Courses.map((apply) => (
-            <div className="  flex flex-col pl-6 justify-between rounded-[32px] border border-[#F2F2F2]">
+          {Courses.map((apply, index) => (
+            <div key={index} className="  flex flex-col pl-6 justify-between rounded-[32px] border border-[#F2F2F2]">
               <div className=" flex flex-col justify-between">
                 <div className="flex justify-between pt-6 ">
                   <div className="justify-between  flex flex-col">

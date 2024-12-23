@@ -1,5 +1,63 @@
-
-
+export const recommendations = [
+  {
+    name: "Place Name",
+    location: "Location",
+    price: "$374",
+    timeln: "night",
+    image: "cold.png",
+  },
+  {
+    name: "Place Name",
+    location: "Location",
+    price: "$374",
+    timeln: "night",
+    image: "paris.png",
+  },
+  {
+    name: "Place Name",
+    location: "Location",
+    price: "$374",
+    timeln: "night",
+    image: "skyscrapper.png",
+  },
+  {
+    name: "Place Name",
+    location: "Location",
+    price: "$374",
+    timeln: "night",
+    image: "cold.png",
+  },
+];
+export const Mixrecommendations = [
+  {
+    name: "Sky diving",
+    description: "Torem ipsum dolor sit amet, consectetur adipiscing elit.",
+    price: "$374",
+    timeln: "Day",
+    image: "skydiving.jpg",
+  },
+  {
+    name: "Waterfall Adventure",
+    description: "Torem ipsum dolor sit amet, consectetur adipiscing elit.",
+    price: "$374",
+    timeln: "Day",
+    image: "fall.png",
+  },
+  {
+    name: "Cycling",
+    description: "Torem ipsum dolor sit amet, consectetur adipiscing elit.",
+    price: "$374",
+    timeln: "Day",
+    image: "cycling.png",
+  },
+  {
+    name: "Catching Auororas",
+    description: "Torem ipsum dolor sit amet, consectetur adipiscing elit.",
+    price: "$374",
+    timeln: "Day",
+    image: "waterfall.png",
+  },
+];
 export const menus = [
   {
     'ref': "/",
@@ -65,6 +123,23 @@ export const offers = [
       text: "It’s not just about technique; it’s about playing with purpose. In this camp, you’ll learn how to apply what you’ve learned in real-world situations, whether you're performing in a band, recording in the studio, or jamming with friends. You’ll get the tools to build your personal style and take your drumming to any stage, anywhere in the world.",
     },
     
+  ];
+ export const Eligibility = [
+    {
+      image: "dude.png",
+      title: "Beginners",
+      text: "There is alot to learn for every beginner",
+    },
+    {
+      image: "femalPhone.png",
+      title: "Intermediate",
+      text: "There is alot to learn for every Intermediate player",
+    },
+    {
+      image: "mama.png",
+      title: "Advanced",
+      text: "There is alot to learn for every advancedplayer",
+    },
   ];
 
   export const store = [
