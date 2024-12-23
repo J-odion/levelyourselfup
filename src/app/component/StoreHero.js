@@ -10,7 +10,7 @@ export default function StoreHero() {
       <div className="w-full lg:w-[1376px] lg:h-[447px] bg-black bg-no-repeat p-4 bg-contain rounded-[36px] flex flex-col gap-6 lg:flex-row justify-center items-center">
         <div className="w-full h-[300px] rounded-lg overflow-hidden ">
           <Image
-            src="self.jpg"
+            src="self.JPG"
             width={200}
             height={38}
             className=" w-full  object-cover object-bottom lg:w-[500px]"

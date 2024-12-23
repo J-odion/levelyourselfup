@@ -10,7 +10,7 @@ export default function EventsHero() {
       <div className="w-full lg:w-[1376px] lg:h-[447px] bg-black bg-no-repeat p-4 bg-contain rounded-[36px] flex flex-col gap-6 lg:flex-row justify-center items-center">
         <div className="w-full h-[300px] rounded-lg overflow-hidden ">
           <Image
-            src="self.jpg"
+            src="self.JPG"
             width={200}
             height={38}
             className=" w-full  object-cover object-bottom lg:w-[500px]"
@@ -29,11 +29,7 @@ export default function EventsHero() {
           <p className=" lg:text-[24px] lg:leading-[46px] w-[311px] lg:w-[697px] font-[300] lg:font-[400] text-center  mb-[39px] text-[#C4D3D6]">
           This is your exclusive opportunity to immerse yourself in a transformative drum experience like no other.
           </p>
-          {/* <div className="flex lg:flex-row flex-col gap-[24px] w-[311px] lg:w-[888px] justify-center ">
-            <button className="bg-[#A47660] hover:bg-[#dc7545] w-full  justify-center lg:w-[200px] h-[52px] text-[17px] font-black flex items-center gap-2 text-white px-6 py-2 rounded-full">
-              Register Now <LuMoveRight color={"white"} size={24} />
-            </button>
-          </div> */}
+          
         </div>
       </div>
     </section>

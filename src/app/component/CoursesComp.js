@@ -29,7 +29,7 @@ export default function CourseComp({ children }) {
                         className="w-[80px] h-[80px] "
                         width={60}
                         height={60}
-                        src="/logg.png"
+                        src="/logg.PNG"
                       />
                       <p className="text-[16px] lg:text-[38px]  leading-[28px] font-black my-[6px] lg:mt-[16px] lg:mb-[12px]">
                         {apply.title}

@@ -1,63 +1,5 @@
-export const recommendations = [
-  {
-    name: "Place Name",
-    location: "Location",
-    price: "$374",
-    timeln: "night",
-    image: "cold.png",
-  },
-  {
-    name: "Place Name",
-    location: "Location",
-    price: "$374",
-    timeln: "night",
-    image: "paris.png",
-  },
-  {
-    name: "Place Name",
-    location: "Location",
-    price: "$374",
-    timeln: "night",
-    image: "skyscrapper.png",
-  },
-  {
-    name: "Place Name",
-    location: "Location",
-    price: "$374",
-    timeln: "night",
-    image: "cold.png",
-  },
-];
-export const Mixrecommendations = [
-  {
-    name: "Sky diving",
-    description: "Torem ipsum dolor sit amet, consectetur adipiscing elit.",
-    price: "$374",
-    timeln: "Day",
-    image: "skydiving.jpg",
-  },
-  {
-    name: "Waterfall Adventure",
-    description: "Torem ipsum dolor sit amet, consectetur adipiscing elit.",
-    price: "$374",
-    timeln: "Day",
-    image: "fall.png",
-  },
-  {
-    name: "Cycling",
-    description: "Torem ipsum dolor sit amet, consectetur adipiscing elit.",
-    price: "$374",
-    timeln: "Day",
-    image: "cycling.png",
-  },
-  {
-    name: "Catching Auororas",
-    description: "Torem ipsum dolor sit amet, consectetur adipiscing elit.",
-    price: "$374",
-    timeln: "Day",
-    image: "waterfall.png",
-  },
-];
+
+
 export const menus = [
   {
     'ref': "/",
@@ -124,23 +66,6 @@ export const offers = [
     },
     
   ];
- export const Eligibility = [
-    {
-      image: "dude.png",
-      title: "Beginners",
-      text: "There is alot to learn for every beginner",
-    },
-    {
-      image: "femalPhone.png",
-      title: "Intermediate",
-      text: "There is alot to learn for every Intermediate player",
-    },
-    {
-      image: "mama.png",
-      title: "Advanced",
-      text: "There is alot to learn for every advancedplayer",
-    },
-  ];
 
   export const store = [
     {
@@ -151,21 +76,21 @@ export const offers = [
       link: "https://paystack.com/buy/nly-hoodie-yolvyo",
     },
     {
-      image: "/hood2.jpg",
+      image: "/hood2.JPG",
       title: "Hoodie",
       price:"$30",
       text: "Our pride hoodie",
       link: "https://paystack.com/buy/nly-hoodie-yolvyo",
     },
     {
-      image: "/hood2.jpg",
+      image: "/hood2.JPG",
       title: "Branded Hoodie",
       price:"$30",
       text: "Our top rated hoodie",
       link: "https://paystack.com/buy/nly-hoodie-yolvyo"
     },
     {
-      image: "/hood3.jpg",
+      image: "/hood3.JPG",
       title: "Branded Cap",
       price:"$30",
       text: "Our top rated cap",
@@ -187,7 +112,7 @@ export const offers = [
   
   export const Events = [
     {
-      image: "1.jpg",
+      image: "1.JPG",
       title: "Next level yourself with Mk Stixx",
       price:"$10",
       dration: 'January 24 - January 25',

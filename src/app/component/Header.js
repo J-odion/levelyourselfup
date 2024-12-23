@@ -24,7 +24,7 @@ export default function Navbar() {
       <div className=" w-full lg:w-[1280px] flex justify-between items-center ">
         <div className="text-xl font-bold">
           <a href="/">
-            <Image src="logg.png" width={100} height={38} />
+            <Image src="logg.PNG" width={100} height={38} />
           </a>
         </div>
 
