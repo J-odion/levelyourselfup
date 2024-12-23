@@ -2,6 +2,7 @@ import localFont from "next/font/local";
 import "./globals.css";
 import Navbar from "./component/Header";
 import FooterSection from "./component/Footer";
+import { Analytics } from '@vercel/analytics/next';
 
 const figtree = localFont({
   src: "./fonts/Figtree.ttf",
@@ -24,6 +25,8 @@ export default function RootLayout({ children }) {
         <Navbar />
         {children}
         <FooterSection />
+
+        <Analytics />
       </body>
     </html>
   );
