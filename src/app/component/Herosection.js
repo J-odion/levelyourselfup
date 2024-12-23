@@ -23,7 +23,7 @@ export default function Hero() {
               NextLevelYourself
             </span>
           </p>
-          <h1 className="text-[36px] lg:text-[72px] text-[#FFFFFF] mt-[24px] mb-[36px] text-center leading-[44px] lg:leading-[84px] w-[311px] lg:w-[888px]  ">
+          <h1 className="text-[36px] lg:text-[72px] uppercase font-bold text-[#FFFFFF] mt-[24px] mb-[36px] text-center leading-[44px] lg:leading-[84px] w-[311px] lg:w-[888px]  ">
             The Mkstixx Drum Camp Experience
           </h1>
           <p className=" lg:text-[24px] lg:leading-[46px] w-[311px] lg:w-[697px] font-[300] lg:font-[400] text-center  mb-[39px] text-[#C4D3D6]">

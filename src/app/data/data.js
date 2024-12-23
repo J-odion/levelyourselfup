@@ -175,9 +175,9 @@ export const offers = [
   export const Courses = [
     {
       image: "dude.png",
-      title: "Online Drums Training",
+      title: "Online Drum Class",
       text: "There is alot to learn for everybody",
-      price:"$30",
+      price:"$100",
       dration: 'Monthly',
       categories: ["Beginner", "Intermediate", "Advanced"],
       link: "https://paystack.com/buy/mkstixx-online-class-ymkvsf"
