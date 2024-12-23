@@ -33,7 +33,7 @@ export default function StoreComp({ children }) {
                                 className="w-[60px] h-[60px] "
                                 width={60}
                                 height={60}
-                                src="/assets/logg.png"
+                                src="/logg.png"
                               />
                               <p className="text-[16px] lg:text-[36px] font-extrabold leading-[28px] my-[6px] lg:mt-[16px] lg:mb-[12px]">
                                 {apply.title}

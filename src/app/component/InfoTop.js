@@ -37,7 +37,7 @@ export default function InfoTop() {
                   className="w-[34.84px] h-[34.84px] "
                   width={34.84}
                   height={34.84}
-                  src="/assets/logg.png"
+                  src="logg.png"
                 />
                 <p className="text-[20px] leading-[32px] text-black font-semibold">
                   {offer.texts}
@@ -78,7 +78,7 @@ export default function InfoTop() {
                     className="w-[28px] h-[28px] "
                     width={28}
                     height={28}
-                    src="/assets/logg.png"
+                    src="logg.png"
                   />
                   <p className="text-white text-[14px] lg:text-[18px] leading-[28px] font-semibold ">
                     {benefit.title}
@@ -114,7 +114,7 @@ export default function InfoTop() {
                         className="w-[60px] h-[60px] "
                         width={60}
                         height={60}
-                        src="/assets/logg.png"
+                        src="logg.png"
                       />
                       <p className="text-[16px] lg:text-[24px] leading-[28px] font-medium my-[6px] lg:mt-[16px] lg:mb-[12px]">
                         {apply.title}

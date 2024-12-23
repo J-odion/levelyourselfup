@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { Courses, Eligibility } from "../data/data";
+import { Courses } from "../data/data";
 import TitlesFlow from "./Titles";
 
 export default function CourseComp({ children }) {
@@ -29,7 +29,7 @@ export default function CourseComp({ children }) {
                         className="w-[80px] h-[80px] "
                         width={60}
                         height={60}
-                        src="/assets/logg.png"
+                        src="/logg.png"
                       />
                       <p className="text-[16px] lg:text-[38px]  leading-[28px] font-black my-[6px] lg:mt-[16px] lg:mb-[12px]">
                         {apply.title}

@@ -28,7 +28,7 @@ export default function FooterSection() {
             <div className="mt-16 relative ">
               <div className="z-50 flex flex-col lg:flex-row w-full justify-center items-center lg:justify-between text-[#5C5C5C]">
                 <a href="/">
-                  <Image src="/assets/logg.png" width={100} height={38} />
+                  <Image src="logg.png" width={100} height={38} />
                 </a>
                 <div className="flex flex-col lg:flex-row justify-center items-center text-white gap-8 ">
                   <p className=" z-50 text-[16px] leading-[20px] font-normal ">

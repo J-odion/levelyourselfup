@@ -4,28 +4,28 @@ export const recommendations = [
     location: "Location",
     price: "$374",
     timeln: "night",
-    image: "/assets/cold.png",
+    image: "cold.png",
   },
   {
     name: "Place Name",
     location: "Location",
     price: "$374",
     timeln: "night",
-    image: "/assets/paris.png",
+    image: "paris.png",
   },
   {
     name: "Place Name",
     location: "Location",
     price: "$374",
     timeln: "night",
-    image: "/assets/skyscrapper.png",
+    image: "skyscrapper.png",
   },
   {
     name: "Place Name",
     location: "Location",
     price: "$374",
     timeln: "night",
-    image: "/assets/cold.png",
+    image: "cold.png",
   },
 ];
 export const Mixrecommendations = [
@@ -34,28 +34,28 @@ export const Mixrecommendations = [
     description: "Torem ipsum dolor sit amet, consectetur adipiscing elit.",
     price: "$374",
     timeln: "Day",
-    image: "/assets/skydiving.jpg",
+    image: "skydiving.jpg",
   },
   {
     name: "Waterfall Adventure",
     description: "Torem ipsum dolor sit amet, consectetur adipiscing elit.",
     price: "$374",
     timeln: "Day",
-    image: "/assets/fall.png",
+    image: "fall.png",
   },
   {
     name: "Cycling",
     description: "Torem ipsum dolor sit amet, consectetur adipiscing elit.",
     price: "$374",
     timeln: "Day",
-    image: "/assets/cycling.png",
+    image: "cycling.png",
   },
   {
     name: "Catching Auororas",
     description: "Torem ipsum dolor sit amet, consectetur adipiscing elit.",
     price: "$374",
     timeln: "Day",
-    image: "/assets/waterfall.png",
+    image: "waterfall.png",
   },
 ];
 export const menus = [
@@ -126,17 +126,17 @@ export const offers = [
   ];
  export const Eligibility = [
     {
-      image: "/assets/dude.png",
+      image: "dude.png",
       title: "Beginners",
       text: "There is alot to learn for every beginner",
     },
     {
-      image: "/assets/femalPhone.png",
+      image: "femalPhone.png",
       title: "Intermediate",
       text: "There is alot to learn for every Intermediate player",
     },
     {
-      image: "/assets/mama.png",
+      image: "mama.png",
       title: "Advanced",
       text: "There is alot to learn for every advancedplayer",
     },
@@ -144,33 +144,33 @@ export const offers = [
 
   export const store = [
     {
-      image: "/assets/dude.png",
+      image: "dude.png",
       title: "Hoddie",
-      price:"$100",
+      price:"$30",
       text: "There is alot to learn for every beginner",
       link: "https://paystack.com/buy/mkstixx-online-class-ymkvsf",
     },
     {
-      image: "/assets/femalPhone.png",
+      image: "femalPhone.png",
       title: "Sticks",
-      price:"$100",
+      price:"$30",
       text: "There is alot to learn for every amature player",
       link: "https://paystack.com/buy/mkstixx-online-class-ymkvsf",
     },
     {
-      image: "/assets/mama.png",
+      image: "mama.png",
       title: "Drum pads",
-      price:"$100",
+      price:"$30",
       text: "There is alot to learn for every advancedplayer",
       link: "https://paystack.com/buy/mkstixx-online-class-ymkvsf"
     },
   ];
   export const Courses = [
     {
-      image: "/assets/dude.png",
+      image: "dude.png",
       title: "Online Drums Training",
       text: "There is alot to learn for everybody",
-      price:"$100",
+      price:"$30",
       dration: 'Monthly',
       categories: ["Beginner", "Intermediate", "Advanced"],
       link: "https://paystack.com/buy/mkstixx-online-class-ymkvsf"
@@ -180,7 +180,7 @@ export const offers = [
   
   export const Events = [
     {
-      image: "/assets/1.jpg",
+      image: "1.jpg",
       title: "Next level yourself with Mk Stixx",
       price:"$10",
       dration: 'January 24 - January 25',
