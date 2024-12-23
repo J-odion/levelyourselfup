@@ -144,25 +144,25 @@ export const offers = [
 
   export const store = [
     {
-      image: "dude.png",
-      title: "Hoddie",
+      image: "/hood.JPG",
+      title: "Tees",
       price:"$30",
-      text: "There is alot to learn for every beginner",
-      link: "https://paystack.com/buy/mkstixx-online-class-ymkvsf",
+      text: "our top rated tee",
+      link: "https://paystack.com/buy/nly-hoodie-yolvyo",
     },
     {
-      image: "femalPhone.png",
-      title: "Sticks",
+      image: "/hood2.jpg",
+      title: "Hoodie",
       price:"$30",
-      text: "There is alot to learn for every amature player",
-      link: "https://paystack.com/buy/mkstixx-online-class-ymkvsf",
+      text: "Our pride hoodie",
+      link: "https://paystack.com/buy/nly-hoodie-yolvyo",
     },
     {
-      image: "mama.png",
-      title: "Drum pads",
+      image: "/hood2.jpg",
+      title: "Branded Hoodie",
       price:"$30",
-      text: "There is alot to learn for every advancedplayer",
-      link: "https://paystack.com/buy/mkstixx-online-class-ymkvsf"
+      text: "Our top rated hoodie",
+      link: "https://paystack.com/buy/nly-hoodie-yolvyo"
     },
   ];
   export const Courses = [

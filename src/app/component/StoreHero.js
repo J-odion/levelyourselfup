@@ -24,10 +24,10 @@ export default function StoreHero() {
             </span>
           </p>
           <h1 className="text-[36px] lg:text-[72px] text-[#FFFFFF] mt-[24px] mb-[36px] text-center leading-[44px] lg:leading-[84px] w-[311px] lg:w-[888px]  ">
-            View our Drum kits
+            You can wear what we wear
           </h1>
           <p className=" lg:text-[24px] lg:leading-[46px] w-[311px] lg:w-[697px] font-[300] lg:font-[400] text-center  mb-[39px] text-[#C4D3D6]">
-            You can get all you need to up your drum kits and items/accessories
+            You can get all our fits from our stores
           </p>
           <div className="flex lg:flex-row flex-col gap-[24px] w-[311px] lg:w-[888px] justify-center ">
             <button className="bg-[#A47660] hover:bg-[#dc7545] w-full  justify-center lg:w-[181px] h-[52px] text-[17px] font-[500] flex items-center gap-2 text-white px-6 py-2 rounded-full">
