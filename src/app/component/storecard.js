@@ -49,7 +49,7 @@ export default function StoreComp({ children }) {
                       href={apply.link}
                       className="bg-[#A47660] hover:bg-[#dc7545] flex mt-6  gap-4 mb-6 h-[40px] text-[#FFFFFF] px-4 py-6 items-center justify-center text-[20px] font-black rounded-full"
                     >
-                      Register Now
+                      Buy Now
                       <FaDrum size={30} />
                     </a>
                   </div>
