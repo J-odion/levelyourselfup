@@ -50,7 +50,7 @@ export default function Navbar() {
         </ul>
 
         {/* Desktop Buttons */}
-        <div className="hidden lg:flex gap-4">
+        <div className="hidden lg:flex gap-8">
           <Link href="https://www.instagram.com/mk_stixx/profilecard/?igsh=aXRwNjU5c2kyOGtm">
             <FaInstagram color="#A47660" size={30} />
           </Link>
