@@ -31,9 +31,9 @@ export default function CoursesHero() {
             need to master bass, all in one place
           </p>
           <div className="flex lg:flex-row flex-col gap-[24px] w-[311px] lg:w-[888px] justify-center ">
-            <button className="bg-[#A47660] hover:bg-[#dc7545] w-full  justify-center lg:w-[181px] h-[52px] text-[17px] font-[500] flex items-center gap-2 text-white px-6 py-2 rounded-full">
+            <a href="#start" className="bg-[#A47660] hover:bg-[#dc7545] w-full  justify-center lg:w-[181px] h-[52px] text-[17px] font-[500] flex items-center gap-2 text-white px-6 py-2 rounded-full">
               Get Started <LuMoveRight color={"white"} size={24} />
-            </button>
+            </a>
           </div>
         </div>
       </div>

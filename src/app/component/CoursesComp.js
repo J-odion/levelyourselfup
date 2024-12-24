@@ -9,7 +9,7 @@ export default function CourseComp({ children }) {
       className="px-10 py-[96px] gap-y-[64px] w-full justify-center flex flex-col "
     >
       <div
-        id="eligibility"
+        id="start"
         className="lg:w-[1376px] mx-auto flex flex-col gap-[64px] "
       >
         <TitlesFlow
