@@ -152,13 +152,6 @@ export const offers = [
     },
     {
       image: "/hood2.JPG",
-      title: "Hoodie",
-      price:"$30",
-      text: "Our pride hoodie",
-      link: "https://paystack.com/buy/nly-hoodie-yolvyo",
-    },
-    {
-      image: "/hood2.JPG",
       title: "Branded Hoodie",
       price:"$30",
       text: "Our top rated hoodie",
