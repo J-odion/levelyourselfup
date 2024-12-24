@@ -160,7 +160,7 @@ export const offers = [
     {
       image: "/hood3.JPG",
       title: "Branded Cap",
-      price:"$30",
+      price:"$15",
       text: "Our top rated cap",
       link: "https://paystack.com/buy/nly-hoodie-yolvyo"
     },
