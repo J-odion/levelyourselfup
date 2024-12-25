@@ -19,7 +19,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <head>
+      {/* <head>
         <Script
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3479358447222895"
           async
@@ -34,13 +34,15 @@ export default function RootLayout({ children }) {
             }(document,"script","https://chimpstatic.com/mcjs-connected/js/users/5ccd84da1698ec16db7fd21b5/fb2f9be663183b52d269afb07.js");
           `}
         </Script>
-      </head>
+      </head> */}
       <body
         className={`${figtree.variable}  antialiased w-full bg-black text-white overflow-x-hidden`}
       >
-        <Navbar />
-        {children}
-        <FooterSection />
+        {/* <Navbar /> */}
+       {children}
+        {/* <FooterSection /> */}
+
+        
 
         <Analytics />
       </body>
