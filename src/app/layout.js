@@ -38,9 +38,9 @@ export default function RootLayout({ children }) {
       <body
         className={`${figtree.variable}  antialiased w-full bg-black text-white overflow-x-hidden`}
       >
-        {/* <Navbar /> */}
+        <Navbar />
        {children}
-        {/* <FooterSection /> */}
+        <FooterSection />
 
         
 
