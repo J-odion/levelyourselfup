@@ -44,7 +44,7 @@ export default function FooterSection() {
                     Built by <a target="blank"></a>
                     <a
                       target="_blank"
-                      href="https://www.linkedin.com/emmanuel-jafaru"
+                      href="https://www.linkedin.com/in/emmanuel-jafaru/"
                     >
                       Emmanuel Jafaru
                     </a>
